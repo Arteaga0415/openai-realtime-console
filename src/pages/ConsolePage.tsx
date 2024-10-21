@@ -391,8 +391,7 @@ export function ConsolePage() {
           properties: {
             key: {
               type: 'string',
-              description:
-                'The key of the memory value. Always use lowercase and underscores, no other characters.',
+              description: 'The key of the memory value. Always use lowercase and underscores, no other characters.',
             },
             value: {
               type: 'string',
