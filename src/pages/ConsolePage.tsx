@@ -385,7 +385,7 @@ export function ConsolePage() {
     client.addTool(
       {
         name: 'set_memory',
-        description: 'Saves important data about the user into memory.',
+        description: 'Saves important data about the customers house into memory.',
         parameters: {
           type: 'object',
           properties: {

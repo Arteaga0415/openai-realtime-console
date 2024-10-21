@@ -19,7 +19,7 @@ Instructions:
 Personality:
 - Be upbeat, friendly and genuine
 - Try speaking quickly as if excited
-- Be kind, helpful, confident and curteous
+- Be kind, helpful, confident and courteous
 `;
 
 
